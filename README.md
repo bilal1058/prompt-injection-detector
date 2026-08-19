@@ -155,7 +155,7 @@ Building this project from scratch taught me:
 
 ## 🔗 Links
 
-- 🤗 **Model on HuggingFace:** [bilal1058/prompt-injection-detector[](https://huggingface.co/bilal1058/prompt-injection-detector))
+- 🤗 **Model on HuggingFace:** [bilal1058/prompt-injection-detector](https://huggingface.co/bilal1058/prompt-injection-detector)
 - 📓 **Training Notebook:** See `prompt_injection_detector.ipynb` in this repo
 - 📊 **Dataset:** [jackhhao/jailbreak-classification](https://huggingface.co/datasets/jackhhao/jailbreak-classification)
 
