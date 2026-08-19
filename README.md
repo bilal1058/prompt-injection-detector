@@ -106,7 +106,6 @@ prompt-injection-detector/
 │
 ├── prompt_injection_detector.ipynb   ← Full training notebook
 ├── README.md                         ← This file
-└── requirements.txt                  ← Dependencies
 ```
 
 ---
